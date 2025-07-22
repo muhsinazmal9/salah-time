@@ -1,3 +1,8 @@
+> [!WARNING]
+> after learning the proper competitive-programming i will anarchive and work on it (thank you!)
+
+---
+
 # Salah Time 🕌
 
 **Salah Time** is a fast, simple, and beautiful app to display daily prayer (Salat) times — built using C++.
